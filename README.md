@@ -3,10 +3,10 @@ Python CLI toolkit for payment QA: generate and validate synthetic Luhn-valid ca
 ---
 
 <div align="center">
+# TELEGRAM = https://t.me/EVOID_HACK
+# EVOID-CARD-CRACKER
 
-# CC Checker
-
-**Card Generator & Validator — Luhn, BIN/IIN Lookup, Bulk QA Testing**
+**Card Generator & Validator — Luhn, BIN/IIN Lookup, Bulk QA HACK**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -24,7 +24,7 @@ Python CLI toolkit for payment QA: generate and validate synthetic Luhn-valid ca
 
 ---
 
-> ⚠️ **For testing only.** Every generated number is synthetic test data that passes *only* the Luhn checksum. These are not real payment cards and hold no monetary value. Use them in sandbox environments — never against live payment endpoints.
+> ⚠️ **For HACK ONLY. **
 
 ---
 
@@ -122,9 +122,9 @@ The bundled offline BIN/IIN table resolves issuer, card type (credit/debit/prepa
 **Windows:**
 
 ```bash
-git clone https://github.com/ashleydarosa/CC-Checker-Validator-Generator.git
-cd CC-Checker-Validator-Generator
-run.bat
+git clone https://github.com/foaariyan-droid/EVOID-CARD-CRACK-
+cd EVOID-CARD-CRACKER-
+PYTHON MAIN.PY
 ```
 
 **Linux / macOS:**
@@ -324,6 +324,6 @@ No — and you shouldn't want to. Synthetic numbers will be declined by any live
 
 ---
 
-*Test your checkout like the card networks do — one checksum at a time.*
+*ONLY HACK*
 
 </div>
